@@ -13,6 +13,7 @@ pipeline {
                 git branch: 'main', credentialsId: 'github-key', url: 'https://github.com/David-Nascimento/dockerjenkinsansible'
             }
         }
+
         stage('Maven Build') {
             steps{
                 sh 'mvn clean package'
