@@ -1,3 +1,4 @@
+![Captura de tela de 2021-07-23 22-44-19](https://user-images.githubusercontent.com/53004819/126881075-e2024161-33b7-4670-9e93-7061fb3cbf18.png)
 # Jenkins CI/CD com Docker, Ansible e AWS
 
 > Projeto criado com proposito didatico pessoal, o projeto visa melhorias na habilidade 
